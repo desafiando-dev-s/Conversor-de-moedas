@@ -12,7 +12,7 @@ O projeto deverá ser feito em Node.js com TypeScript.
 
 ### 1. Deve ser possível realizar a conversão entre 4 moedas no mínimo (BRL, USD, EUR, JPY);
 
-### 1. As taxas de conversão devem ser obtidas de [https://api.exchangeratesapi.io/latest?base=EUR] 
+### 1. As taxas de conversão devem ser obtidas de [Link](https://api.exchangeratesapi.io/latest?base=EUR) 
   (Usar a API Free - Tem limitação de requisições, e apenas conversão com base na moeda EUR);
   
 ### 1. As transações de conversão devem ser persistidas no banco de dados (embedded) contendo:
